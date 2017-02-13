@@ -38,6 +38,7 @@ sampleAlbums.push({
 
 
 $(document).ready(function() {
+  debugger;
   console.log('app.js loaded!');
 });
 
